@@ -26,8 +26,4 @@ localityInfo = {
 
 print(brain.processConditions(myLocation ,APIKEY, localityInfo))
 
-'''
-MICRO CONTROLLER CODE WILL BE ADDED IN SPRINT 2 AS PER OUR PLANNED SPRINT SCHEDULE
-'''
-
 # MICRO-CONTROLLER CODE ENDS
